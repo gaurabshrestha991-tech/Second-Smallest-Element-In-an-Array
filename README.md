@@ -10,7 +10,14 @@ The program:
 ## Algorithm
 1. Read the size of the array.
 2. Input all array elements.
-3. Sort the array using `sort()`.
+3. Sort the array using sort().
 4. Traverse the sorted array.
 5. Find the first element that is greater than the smallest element.
 6. Print it as the second smallest element.
+
+## Concepts Used
+- Arrays
+- User Input/Output
+- sort() function from the C++ Standard Library
+- Loops
+- Conditional Statements
