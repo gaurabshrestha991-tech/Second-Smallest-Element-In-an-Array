@@ -29,10 +29,10 @@ int main ()
 
     cout << endl;
 
-    for(int i = 0; i < n; i++)
+    for(int i = 0; i < n - 1; i++)
     {
         if(arr[i] < arr[i+1]){
-            cout << "Second Smallets Element: " << arr[i+1];
+            cout << "Second Smallest Element: " << arr[i+1];
             break;
         }
     }
